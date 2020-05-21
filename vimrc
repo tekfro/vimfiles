@@ -47,6 +47,8 @@ set tabstop=4
 
 set grepprg=internal " this seems to be the only option that actually works on windows
 
+set tags=./tags;
+
 colorscheme default
 
 "---------------------------------------------------
